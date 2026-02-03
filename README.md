@@ -1,1 +1,1 @@
-# Setup-a-Self-Hosted-Git-Server-on-Linux-using-SSH
+# git-server-setup
